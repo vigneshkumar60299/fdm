@@ -16,7 +16,7 @@ To implement Frequency Division Multiplexing (FDM) for six different message sig
   5.Add all modulated signals to form the multiplexed FDM signal.\
   6.For each channel, multiply the multiplexed signal with the same carrier (demodulation).\
   7.Apply a low-pass filter to extract the recovered message.\
-  8.Plot message signals, multiplexed signal, and recovered s ignals.\
+  8.Plot message signals, multiplexed signal, and recovered signals.
 
   ## THEORY
 

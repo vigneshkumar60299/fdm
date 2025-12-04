@@ -9,14 +9,14 @@ To implement Frequency Division Multiplexing (FDM) for six different message sig
 
 ## ALGORITHM
 
-  1.Set sampling frequency, time duration, and time vector.
-  2.Generate six message signals with different frequencies.
-  3.Assign six different carrier frequencies.
-  4.Perform DSB-SC modulation by multiplying each message with its carrier.
-  5.Add all modulated signals to form the multiplexed FDM signal.
-  6.For each channel, multiply the multiplexed signal with the same carrier (demodulation).
-  7.Apply a low-pass filter to extract the recovered message.
-  8.Plot message signals, multiplexed signal, and recovered s ignals.
+  1.Set sampling frequency, time duration, and time vector.\
+  2.Generate six message signals with different frequencies.\
+  3.Assign six different carrier frequencies.\
+  4.Perform DSB-SC modulation by multiplying each message with its carrier.\
+  5.Add all modulated signals to form the multiplexed FDM signal.\
+  6.For each channel, multiply the multiplexed signal with the same carrier (demodulation).\
+  7.Apply a low-pass filter to extract the recovered message.\
+  8.Plot message signals, multiplexed signal, and recovered s ignals.\
 
   ## THEORY
 
